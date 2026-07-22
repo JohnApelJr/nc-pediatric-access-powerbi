@@ -10,7 +10,7 @@ A four-page interactive Power BI report mapping pediatric specialist supply agai
 
 This report translates a published county-level access desert analysis into an executive dashboard with regional drill-down, specialty-specific shortage tracking, and a fully documented methodology page. Built in Power BI Desktop on a five-table star schema with custom DAX measures, Azure Maps choropleth integration, and conditional formatting throughout.
 
-The underlying dataset and analysis come from a Python pipeline developed during my M.S. Applied Data Science capstone at Syracuse University. This Power BI version demonstrates end-to-end BI delivery: data modeling, DAX measure development, visualization design, and methodology documentation in a format suitable for non-technical stakeholders, clinical partners, and policy audiences.
+The underlying dataset and analysis come from a Python pipeline. This Power BI version demonstrates end-to-end BI delivery: data modeling, DAX measure development, visualization design, and methodology documentation in a format suitable for non-technical stakeholders, clinical partners, and policy audiences.
 
 ---
 
